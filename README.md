@@ -1,6 +1,6 @@
  E-Commerce Sales Dashboard (Excel)
  Dashboard Preview
-![E-Commerce Dashboard](ecommerce_dashboard.jpg)
+![E-Commerce Dashboard](E-commerce_-dashboard.jpg)
  
  
  Project Overview
